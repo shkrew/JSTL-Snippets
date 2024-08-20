@@ -20,6 +20,14 @@
             {
                 "language": "jsp",
                 "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/snippets.code-snippets"
             }
         ]
     }
